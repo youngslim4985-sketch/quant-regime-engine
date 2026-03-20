@@ -1,0 +1,5 @@
+{
+  "name": "HedgeFund AI Platform",
+  "description": "A professional trading analytics platform with AI trade journaling and voice-controlled assistant.",
+  "requestFramePermissions": ["microphone"]
+}
